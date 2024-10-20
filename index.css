@@ -1,0 +1,43 @@
+body{
+    background:hsl(240, 75%, 55%);
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.pa-ge{
+    background: hsl(0, 0%, 100%);
+    display:inline-block;
+    margin-top:150px;
+    padding:5px;
+    border-radius:10px;
+}
+h1{
+    font-family:Kode Mono;
+    color:hsl(0, 91%, 55%);
+}
+#div{
+    margin:0 auto 30px auto;
+    font-size:large;
+    text-align:center;
+    width:200px;
+    height:30px;
+    background-color: hsla(79, 17%, 77%, 0.507);
+}
+button{
+    font-weight:bold;
+    background-color: hsl(180, 81%, 40%);
+    font-size:large;
+    padding:15px 25px;
+    border:none;
+    border-radius:6px;
+}
+#note{
+    color:hsla(246, 64%, 47%, 0.932);
+    font-style:italic;
+}
+#refresh{
+    background:hsla(16, 61%, 61%, 0.945);
+    padding:8px 5px;
+    border-radius:6px;
+    margin:9px;
+}
