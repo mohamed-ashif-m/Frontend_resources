@@ -31,13 +31,3 @@ button{
     border:none;
     border-radius:6px;
 }
-#note{
-    color:hsla(246, 64%, 47%, 0.932);
-    font-style:italic;
-}
-#refresh{
-    background:hsla(16, 61%, 61%, 0.945);
-    padding:8px 5px;
-    border-radius:6px;
-    margin:9px;
-}
