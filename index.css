@@ -48,11 +48,3 @@ h1{
     height:30px;
     background-color: hsla(79, 17%, 77%, 0.507);
 }
-button{
-    font-weight:bold;
-    background-color: hsl(180, 81%, 40%);
-    font-size:large;
-    padding:15px 25px;
-    border:none;
-    border-radius:6px;
-}
