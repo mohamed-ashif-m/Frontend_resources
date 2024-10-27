@@ -23,12 +23,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-body{
-    background:hsl(240, 75%, 55%);
-    margin:0;
-    padding:0;
-    text-align:center;
-}
+
 .pa-ge{
     background: hsl(0, 0%, 100%);
     display:inline-block;
