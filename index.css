@@ -35,11 +35,3 @@ h1{
     font-family:Kode Mono;
     color:hsl(0, 91%, 55%);
 }
-#div{
-    margin:0 auto 30px auto;
-    font-size:large;
-    text-align:center;
-    width:200px;
-    height:30px;
-    background-color: hsla(79, 17%, 77%, 0.507);
-}
