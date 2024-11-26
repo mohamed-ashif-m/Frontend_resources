@@ -23,15 +23,3 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-
-.pa-ge{
-    background: hsl(0, 0%, 100%);
-    display:inline-block;
-    margin-top:150px;
-    padding:5px;
-    border-radius:10px;
-}
-h1{
-    font-family:Kode Mono;
-    color:hsl(0, 91%, 55%);
-}
